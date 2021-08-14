@@ -1,0 +1,1 @@
+melody_rnn_generate --config=basic_rnn --bundle_file=MelodyRNN/basic_rnn.mag --output_dir=./melody_rnn_generated
